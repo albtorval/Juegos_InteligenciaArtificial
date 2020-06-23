@@ -4,6 +4,8 @@ Enlace al proyecto en shinyapps.io: <https://albtorval.shinyapps.io/IA_Juegos_Pr
 
 Enlace repositorio GitLab: <https://gitlab.com/albtorval/proyecto>
 
+Enlace repositorio GitHub: <https://github.com/albtorval/TeoriaJuegos_InteligenciaArtificial_Proyecto>
+
 ## Explicación
 
 Se trata de una aplicación `flexdashboard` para analizar dos juegos desde el punto de vista de la Teoría de Juegos y la Inteligancia Artificial: El **juego del piedra, papel o tijeras** y la versión simplificada del póker de John Von Neumann y Oskar Morgenstern, el **VNM-Póker**. Se presenta un apartado 
