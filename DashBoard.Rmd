@@ -2503,7 +2503,7 @@ vnm_poker %>%
 <p class = 'margen'> En este apartado volvemos a desarrollar la idea de un modelo para predecir el resultado de una ronda correspondiente al juego **VNM-Póker**, aunque esta vez aprovecharemos los recursos que integra el paquete `tidymodels`, como por ejemplo el tuneado de parámetros del modelo. Nuevamente nuestro modelo será de clasificación. Por su potencia ya comprobada volvemos a emplear el modelo `Random Forest`. Otro modelo interesante podría ser `XGBoost` dada la flexibilidad de ajuste de los distintos parámetros, no se hace en la aplicación debido a su carga computacional para un juego tan "sencillo". En este caso no esperamos obtener una clasificación tan prolífica como en el juego del piedra-papel-tijeras, por lo que pensar en cambiar la evaluación de nuestro juego por este modelo como entonces quizás pueda parecer ambicioso, o quizás no. </p>
 
 <center>
-![](img/tidymodels.png){ width=35% }
+![](img/tidymodelsfull.png){ width=35% }
 </center>
 <br>
 

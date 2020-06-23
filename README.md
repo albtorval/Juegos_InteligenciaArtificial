@@ -1,6 +1,6 @@
 # Proyecto
 
-Enlace al proyecto en shinyapps.io: <https://albtorval.shinyapps.io/IA_Juegos_Proyecto/?_ga=2.77589589.1764198097.1592931428-1101851704.1592931428>
+Enlace al proyecto en shinyapps.io: <https://albtorval.shinyapps.io/IA_Juegos_Proyecto/>
 
 Enlace repositorio GitLab: <https://gitlab.com/albtorval/proyecto>
 
