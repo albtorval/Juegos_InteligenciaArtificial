@@ -1,7 +1,8 @@
-.gitignore
+*.DS_store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .Rprofile
-rsconnect/*
+rsconnect*
+renv*

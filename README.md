@@ -6,6 +6,8 @@ Enlace repositorio GitLab: <https://gitlab.com/albtorval/proyecto>
 
 Enlace repositorio GitHub: <https://github.com/albtorval/TeoriaJuegos_InteligenciaArtificial_Proyecto>
 
+El proyecto se ha realizado con la funcionalidad del paquete `renv`. Para cargar y actualizar los paquetes a la versión usada en el proyecto ejecutar la orden `renv:restore()`.
+
 ## Explicación
 
 Se trata de una aplicación `flexdashboard` para analizar dos juegos desde el punto de vista de la Teoría de Juegos y la Inteligancia Artificial: El **juego del piedra, papel o tijeras** y la versión simplificada del póker de John Von Neumann y Oskar Morgenstern, el **VNM-Póker**. Se presenta un apartado 
