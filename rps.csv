@@ -1,0 +1,410 @@
+move,comp.move,estado,utilidad,fecha,algoritmo
+papel,piedra,gana,1,2020-03-09,aleatorio
+papel,tijeras,pierde,-1,2020-03-09,aleatorio
+tijeras,papel,gana,1,2020-03-09,predictivo
+papel,piedra,gana,1,2020-03-09,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+piedra,piedra,empate,0,2020-03-11,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+papel,papel,empate,0,2020-03-11,jugador ficticio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+papel,piedra,gana,1,2020-03-11,aleatorio
+tijeras,papel,gana,1,2020-03-11,aleatorio
+piedra,piedra,empate,0,2020-03-11,jugador ficticio
+piedra,piedra,empate,0,2020-03-11,jugador ficticio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+papel,piedra,gana,1,2020-03-11,aleatorio
+tijeras,tijeras,empate,0,2020-03-11,aleatorio
+tijeras,tijeras,empate,0,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+tijeras,tijeras,empate,0,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-03-11,predictivo
+tijeras,papel,gana,1,2020-03-11,aleatorio
+piedra,piedra,empate,0,2020-03-11,aleatorio
+papel,tijeras,pierde,-1,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+piedra,papel,pierde,-1,2020-03-11,aleatorio
+papel,papel,empate,0,2020-03-11,aleatorio
+papel,papel,empate,0,2020-03-11,aleatorio
+piedra,piedra,empate,0,2020-03-11,jugador ficticio
+piedra,tijeras,gana,1,2020-03-11,aleatorio
+papel,tijeras,pierde,-1,2020-03-11,aleatorio
+tijeras,papel,gana,1,2020-03-11,aleatorio
+piedra,piedra,empate,0,2020-03-11,aleatorio
+papel,tijeras,pierde,-1,2020-03-11,aleatorio
+tijeras,piedra,pierde,-1,2020-03-11,aleatorio
+piedra,tijeras,gana,1,2020-04-17,aleatorio
+piedra,papel,pierde,-1,2020-04-17,predictivo
+papel,papel,empate,0,2020-04-18,aleatorio
+tijeras,piedra,pierde,-1,2020-04-18,aleatorio
+papel,papel,empate,0,2020-04-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-03,aleatorio
+piedra,tijeras,gana,1,2020-06-03,aleatorio
+tijeras,tijeras,empate,0,2020-06-03,jugador ficticio
+tijeras,piedra,pierde,-1,2020-06-03,jugador ficticio
+papel,papel,empate,0,2020-06-03,jugador ficticio
+tijeras,tijeras,empate,0,2020-06-03,jugador ficticio
+tijeras,papel,gana,1,2020-06-03,predictivo
+tijeras,piedra,pierde,-1,2020-06-03,aleatorio
+piedra,piedra,empate,0,2020-06-03,aleatorio
+piedra,papel,pierde,-1,2020-06-03,aleatorio
+tijeras,papel,gana,1,2020-06-03,aleatorio
+tijeras,papel,gana,1,2020-06-03,aleatorio
+tijeras,piedra,pierde,-1,2020-06-03,aleatorio
+papel,papel,empate,0,2020-06-03,aleatorio
+papel,piedra,gana,1,2020-06-03,aleatorio
+papel,tijeras,pierde,-1,2020-06-03,aleatorio
+piedra,papel,pierde,-1,2020-06-03,aleatorio
+tijeras,papel,gana,1,2020-06-03,aleatorio
+piedra,papel,pierde,-1,2020-06-03,aleatorio
+tijeras,papel,gana,1,2020-06-03,aleatorio
+piedra,tijeras,gana,1,2020-06-03,aleatorio
+piedra,papel,pierde,-1,2020-06-03,aleatorio
+piedra,papel,pierde,-1,2020-06-04,aleatorio
+tijeras,piedra,pierde,-1,2020-06-04,aleatorio
+piedra,papel,pierde,-1,2020-06-04,aleatorio
+tijeras,piedra,pierde,-1,2020-06-04,aleatorio
+papel,tijeras,pierde,-1,2020-06-13,aleatorio
+piedra,piedra,empate,0,2020-06-13,aleatorio
+papel,piedra,gana,1,2020-06-13,aleatorio
+piedra,tijeras,gana,1,2020-06-13,aleatorio
+tijeras,piedra,pierde,-1,2020-06-13,aleatorio
+papel,papel,empate,0,2020-06-13,aleatorio
+piedra,papel,pierde,-1,2020-06-13,aleatorio
+papel,papel,empate,0,2020-06-13,aleatorio
+papel,piedra,gana,1,2020-06-13,aleatorio
+tijeras,piedra,pierde,-1,2020-06-13,jugador ficticio
+piedra,tijeras,gana,1,2020-06-13,aleatorio
+tijeras,papel,gana,1,2020-06-13,aleatorio
+papel,piedra,gana,1,2020-06-13,jugador ficticio
+tijeras,piedra,pierde,-1,2020-06-13,jugador ficticio
+piedra,piedra,empate,0,2020-06-13,jugador ficticio
+tijeras,piedra,pierde,-1,2020-06-13,jugador ficticio
+papel,piedra,gana,1,2020-06-13,jugador ficticio
+papel,piedra,gana,1,2020-06-13,jugador ficticio
+papel,piedra,gana,1,2020-06-13,jugador ficticio
+papel,piedra,gana,1,2020-06-13,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,predictivo
+tijeras,papel,gana,1,2020-06-18,predictivo
+papel,piedra,gana,1,2020-06-18,predictivo
+tijeras,papel,gana,1,2020-06-18,predictivo
+piedra,piedra,empate,0,2020-06-18,predictivo
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+tijeras,papel,gana,1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+tijeras,piedra,pierde,-1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+tijeras,piedra,pierde,-1,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+papel,papel,empate,0,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+tijeras,papel,gana,1,2020-06-18,jugador ficticio
+papel,tijeras,pierde,-1,2020-06-18,predictivo
+piedra,piedra,empate,0,2020-06-18,predictivo
+tijeras,piedra,pierde,-1,2020-06-18,predictivo
+papel,papel,empate,0,2020-06-18,predictivo
+papel,papel,empate,0,2020-06-18,predictivo
+tijeras,tijeras,empate,0,2020-06-18,predictivo
+tijeras,tijeras,empate,0,2020-06-18,predictivo
+tijeras,tijeras,empate,0,2020-06-18,predictivo
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+tijeras,piedra,pierde,-1,2020-06-18,aleatorio
+papel,piedra,gana,1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+papel,piedra,gana,1,2020-06-18,aleatorio
+papel,piedra,gana,1,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+papel,piedra,gana,1,2020-06-18,aleatorio
+piedra,papel,pierde,-1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+tijeras,papel,gana,1,2020-06-18,aleatorio
+tijeras,papel,gana,1,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,jugador ficticio
+papel,tijeras,pierde,-1,2020-06-18,jugador ficticio
+piedra,tijeras,gana,1,2020-06-18,jugador ficticio
+piedra,tijeras,gana,1,2020-06-18,jugador ficticio
+tijeras,tijeras,empate,0,2020-06-18,jugador ficticio
+tijeras,tijeras,empate,0,2020-06-18,jugador ficticio
+tijeras,tijeras,empate,0,2020-06-18,jugador ficticio
+tijeras,tijeras,empate,0,2020-06-18,jugador ficticio
+piedra,tijeras,gana,1,2020-06-18,jugador ficticio
+piedra,papel,pierde,-1,2020-06-18,predictivo
+papel,papel,empate,0,2020-06-18,predictivo
+piedra,piedra,empate,0,2020-06-18,aleatorio
+piedra,papel,pierde,-1,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+piedra,papel,pierde,-1,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+piedra,piedra,empate,0,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+tijeras,papel,gana,1,2020-06-18,aleatorio
+tijeras,piedra,pierde,-1,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+tijeras,tijeras,empate,0,2020-06-18,aleatorio
+piedra,tijeras,gana,1,2020-06-18,aleatorio
+piedra,papel,pierde,-1,2020-06-18,aleatorio
+piedra,papel,pierde,-1,2020-06-18,aleatorio
+papel,papel,empate,0,2020-06-18,aleatorio
+papel,piedra,gana,1,2020-06-18,aleatorio
+papel,tijeras,pierde,-1,2020-06-18,predictivo
+piedra,tijeras,gana,1,2020-06-18,predictivo
+tijeras,papel,gana,1,2020-06-18,predictivo
+papel,piedra,gana,1,2020-06-18,predictivo
+piedra,tijeras,gana,1,2020-06-18,predictivo
+piedra,papel,pierde,-1,2020-06-18,predictivo
+piedra,tijeras,gana,1,2020-06-18,predictivo
+piedra,papel,pierde,-1,2020-06-18,predictivo
+piedra,papel,pierde,-1,2020-06-18,predictivo
+piedra,papel,pierde,-1,2020-06-18,predictivo
+tijeras,papel,gana,1,2020-06-18,predictivo
+tijeras,piedra,pierde,-1,2020-06-18,predictivo
+tijeras,tijeras,empate,0,2020-06-18,predictivo
+papel,piedra,gana,1,2020-06-18,predictivo
+papel,tijeras,pierde,-1,2020-06-18,predictivo
+papel,tijeras,pierde,-1,2020-06-19,aleatorio
+piedra,piedra,empate,0,2020-06-19,aleatorio
+piedra,piedra,empate,0,2020-06-19,aleatorio
+piedra,papel,pierde,-1,2020-06-19,aleatorio
+papel,tijeras,pierde,-1,2020-06-19,aleatorio
+tijeras,papel,gana,1,2020-06-19,aleatorio
+piedra,piedra,empate,0,2020-06-19,aleatorio
+papel,piedra,gana,1,2020-06-19,aleatorio
+piedra,piedra,empate,0,2020-06-19,aleatorio
+tijeras,papel,gana,1,2020-06-19,aleatorio
+papel,papel,empate,0,2020-06-19,jugador ficticio
+piedra,tijeras,gana,1,2020-06-19,predictivo
+papel,papel,empate,0,2020-06-19,predictivo
+piedra,tijeras,gana,1,2020-06-19,predictivo
+tijeras,papel,gana,1,2020-06-19,predictivo
+papel,piedra,gana,1,2020-06-19,predictivo
+piedra,tijeras,gana,1,2020-06-19,predictivo
+tijeras,papel,gana,1,2020-06-19,predictivo
+piedra,piedra,empate,0,2020-06-19,predictivo
+papel,papel,empate,0,2020-06-19,predictivo
+papel,papel,empate,0,2020-06-19,aleatorio
+piedra,tijeras,gana,1,2020-06-19,aleatorio
+piedra,papel,pierde,-1,2020-06-19,aleatorio
+papel,papel,empate,0,2020-06-19,aleatorio
+tijeras,tijeras,empate,0,2020-06-19,aleatorio
+piedra,papel,pierde,-1,2020-06-19,aleatorio
+papel,piedra,gana,1,2020-06-19,aleatorio
+piedra,papel,pierde,-1,2020-06-19,aleatorio
+tijeras,papel,gana,1,2020-06-19,aleatorio
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,papel,gana,1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,aleatorio
+piedra,papel,pierde,-1,2020-06-20,aleatorio
+tijeras,piedra,pierde,-1,2020-06-20,aleatorio
+piedra,tijeras,gana,1,2020-06-20,aleatorio
+tijeras,papel,gana,1,2020-06-20,aleatorio
+piedra,tijeras,gana,1,2020-06-20,aleatorio
+tijeras,tijeras,empate,0,2020-06-20,aleatorio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+papel,piedra,gana,1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,aleatorio
+papel,tijeras,pierde,-1,2020-06-20,aleatorio
+papel,papel,empate,0,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,papel,empate,0,2020-06-20,aleatorio
+papel,papel,empate,0,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,tijeras,pierde,-1,2020-06-20,aleatorio
+papel,papel,empate,0,2020-06-20,aleatorio
+piedra,piedra,empate,0,2020-06-20,aleatorio
+tijeras,tijeras,empate,0,2020-06-20,aleatorio
+piedra,papel,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,papel,gana,1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,tijeras,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,tijeras,empate,0,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,aleatorio
+papel,tijeras,pierde,-1,2020-06-20,aleatorio
+tijeras,piedra,pierde,-1,2020-06-20,aleatorio
+piedra,piedra,empate,0,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+papel,piedra,gana,1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+papel,piedra,gana,1,2020-06-20,aleatorio
+piedra,tijeras,gana,1,2020-06-20,aleatorio
+tijeras,piedra,pierde,-1,2020-06-20,aleatorio
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,papel,gana,1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,papel,gana,1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,tijeras,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,tijeras,empate,0,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+piedra,piedra,empate,0,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,aleatorio
+piedra,papel,pierde,-1,2020-06-20,aleatorio
+tijeras,tijeras,empate,0,2020-06-20,aleatorio
+piedra,tijeras,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+piedra,piedra,empate,0,2020-06-20,aleatorio
+tijeras,papel,gana,1,2020-06-20,aleatorio
+papel,piedra,gana,1,2020-06-20,aleatorio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+piedra,papel,pierde,-1,2020-06-20,jugador ficticio
+tijeras,papel,gana,1,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,jugador ficticio
+papel,papel,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+piedra,piedra,empate,0,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+piedra,piedra,empate,0,2020-06-20,predictivo
+piedra,piedra,empate,0,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+papel,piedra,gana,1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,tijeras,gana,1,2020-06-20,predictivo
+tijeras,tijeras,empate,0,2020-06-20,predictivo
+papel,piedra,gana,1,2020-06-20,predictivo
+piedra,piedra,empate,0,2020-06-20,predictivo
+tijeras,piedra,pierde,-1,2020-06-20,predictivo
+papel,tijeras,pierde,-1,2020-06-20,predictivo
+piedra,papel,pierde,-1,2020-06-23,aleatorio
+tijeras,papel,gana,1,2020-06-23,jugador ficticio
+piedra,papel,pierde,-1,2020-06-23,jugador ficticio
+tijeras,piedra,pierde,-1,2020-06-23,predictivo
+papel,papel,empate,0,2020-06-23,aleatorio
+piedra,papel,pierde,-1,2020-06-23,jugador ficticio
+piedra,piedra,empate,0,2020-06-23,predictivo
+piedra,papel,pierde,-1,2020-06-23,predictivo

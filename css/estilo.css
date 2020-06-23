@@ -1,0 +1,336 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo:700);
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+/*Barra de menú*/
+.navbar {
+  color: yellow;
+  background-color: #000080;
+  border-color: white;
+  }
+.navbar-default .navbar-brand{
+  color: white;
+  border-color: cornflowerblue;
+}
+.tab-panel{
+  color: white;
+  background-color: red; 
+  border-color: cornflowerblue;
+}
+
+/* Fonts */
+.letra{color:	navy;}
+.marcar{color: salmon;}
+
+/* Título */
+.plate {
+  width: 410px;
+  margin: 10% auto;
+}
+.shadow {
+  color: #fff;
+  font-family: 'Jua', sans-serif;
+  font-weight: bold;
+  text-shadow:
+    -3px -3px 0 #222,
+    3px -3px 0 #222,
+    -3px 3px 0 #222,
+    3px 3px 0 #222,
+    4px 4px 0 #fff,
+    5px 5px 0 #fff,
+    6px 6px 0 #fff,
+    7px 7px 0 #fff;
+  line-height: 0.8em;
+  letter-spacing: 0.1em;
+  transform: scaleY(0.7);
+  -webkit-transform: scaleY(0.7);
+  -moz-transform: scaleY(0.7);
+  margin:0;
+  text-align: center;
+}
+.script {
+  font-family: Arvo;
+  color: #000000;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  margin:0;
+}
+.script span {
+  padding: 0 0.3em;
+}
+.script:before {
+  content:"";
+  display: block;
+  position: absolute;
+  z-index:-1;
+  top: 50%;
+  width: 100%;
+  border-bottom: 3px solid #fff;
+}
+
+/* Centar*/
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Texto*/
+.margen {
+  padding-top: 5px;
+  padding-right: 5%;
+  padding-bottom: 5px;
+  padding-left: 5%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Tabla */
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ww11{background-color:#ffce93;border-color:inherit;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;text-align:center;vertical-align:top}
+.tg .tg-gn06{background-color:#ffce93;border-color:inherit;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-fybw{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;text-align:center;
+  vertical-align:top}
+  
+/*ul*/
+ul { margin-left: 20px; }
+
+/*Separar en colunmas*/
+.col{
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+.col2 {
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2%;
+    justify-content: space-evenly;
+}
+.col3 {
+    width: 70%;
+    margin: 0 0 0 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5%;
+}
+
+/* BOTONES */
+.button {
+  display: inline-block;
+  width: 90px; height: 30px;
+  padding: 5px 15px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {
+  background-color: plum;
+}
+
+.button:active {
+  background-color: #ff7070;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#client_logos {
+    display: inline-block;
+    width:100%;
+}
+
+/*Botón largo*/
+.button_large {
+  display: inline-block;
+  width: 150px; height: 30px;
+  padding: 5px 15px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: salmon;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button_large:hover {
+  background-color: plum;
+}
+
+.button_large:active {
+  background-color: #ff7070;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#client_logos {
+    display: inline-block;
+    width:100%;
+}
+
+
+/* PÓKER */
+/* Varias cartas */
+.card {
+  position: relative;
+  float: left;
+  width: 150px;
+  height: 220px;
+  border-radius: 10px;
+  background: #fff;
+  -webkit-box-shadow: 3px 3px 7px rgba(0,0,0,0.3);
+  box-shadow: 3px 3px 7px rgba(0,0,0,0.3);
+}
+.card p {
+  text-align: center;
+  font: 100px/220px Georgia, Times New Roman, serif;
+}
+.suitdiamonds:before, .suitdiamonds:after {
+  content: "♦";
+  color: #ff0000;
+}
+.suitdiamonds:before, .suitdiamonds:after {
+  content: "♦";
+  color: #ff0000;
+}
+.suithearts:before, .suithearts:after {
+  content: "♥";
+  color: #ff0000;
+}
+.suitclubs:before, .suitclubs:after {
+  content: "♣";
+  color: #000;
+}
+.suitspades:before, .suitspades:after {
+  content: "♠";
+  color: #000;
+}
+div[class*='suit']:before {
+  position: absolute;
+  font-size: 35px;
+  left: 5px;
+  top: 5px;
+}
+div[class*='suit']:after {
+  position: absolute;
+  font-size: 35px;
+  right: 5px;
+  bottom: 5px;
+}
+.spread {
+  width: 200px;
+  height: 250px;
+  position: relative;
+}
+.spread > .card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transition: top 0.3s ease, left 0.3s ease;
+  -moz-transition: top 0.3s ease, left 0.3s ease;
+  -o-transition: top 0.3s ease, left 0.3s ease;
+  -ms-transition: top 0.3s ease, left 0.3s ease;
+  transition: top 0.3s ease, left 0.3s ease;
+}
+.spread:hover .suitdiamonds {
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+.spread:hover .suithearts {
+  left: 10px;
+  top: 0px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.spread:hover .suitclubs {
+  left: 20px;
+  top: 5px;
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+.spread:hover .suitspades{
+  left: 30px;
+  top: 10px;
+  -webkit-transform: rotate(20deg);
+  -moz-transform: rotate(20deg);
+  -o-transform: rotate(20deg);
+  -ms-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
+.spread > .card:hover {
+  -webkit-box-shadow: 1px 1px 7px rgba(0,0,0,0.4);
+  box-shadow: 1px 1px 7px rgba(0,0,0,0.4);
+}
+
+/* Animación */
+.cartaHand {
+  position: absolute;
+  left: 80%;
+  bottom: 10%;
+}
+.carta {
+  position: absolute;
+  bottom: 0;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+  display: block;
+  width: 75px;
+  height: 107.5px;
+  background-color: salmon;
+  transition: bottom 1s, left 1s, width 1s, height 1s, transform 1s;
+}
+.carta:not(:focus):hover {
+  position: absolute;
+  width: 107.5px;
+  height: 161.25px;
+  bottom: 50px;
+  transform: rotate(-15deg);
+}
+.carta:nth-child(1) {  left: 50px; }
+.carta:nth-child(1):not(:focus):hover { left: 0px; }
+.carta:nth-child(2) {  left: 100px; }
+.carta:nth-child(2):not(:focus):hover {  left: 50px; }
+.carta:nth-child(3) {  left: 150px; }
+.carta:nth-child(3):not(:focus):hover { left: 100px; }
+.carta:nth-child(4) {  left: 200px; }
+.carta:nth-child(4):not(:focus):hover { left: 150px; }
+.carta:focus {  bottom: 200px; }
+
+
+
