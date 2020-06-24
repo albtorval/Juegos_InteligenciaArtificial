@@ -4,9 +4,9 @@ Enlace al proyecto en shinyapps.io: <https://albtorval.shinyapps.io/IA_Juegos_Pr
 
 Enlace repositorio GitLab: <https://gitlab.com/albtorval/proyecto>
 
-Enlace repositorio GitHub: <https://github.com/albtorval/TeoriaJuegos_InteligenciaArtificial_Proyecto>
+Enlace repositorio GitHub: <https://github.com/albtorval/Juegos_InteligenciaArtificial>
 
-El proyecto se ha realizado con la funcionalidad del paquete `renv`. Para cargar y actualizar los paquetes a la versión usada en el proyecto ejecutar la orden `renv:restore()`.
+Para cargar y actualizar los paquetes a la versión usada en el proyecto ejecutar la orden `renv::restore()`.
 
 ## Explicación
 
